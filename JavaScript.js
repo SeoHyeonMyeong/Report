@@ -12,6 +12,14 @@
 // Ctrl + Shift + I : 구글 개발자도구 창 열기
 // Console 클릭 or ESC : 콘솔창 열기
 // 콘솔창에서 자바 스크립트를 입력하면 마치 웹에 자바스크립트를 쓴것과 같은 효과 발생
-// ex) alert('asdfasdfasdf'.length);
+alert('asdfasdfasdf'.length); //문자열의 길이를 구해서 띄워주는 함수
 
-// 3. 
+// 3. 문자열
+
+'hello world'.length; // 결과 : 11
+'hello world'.toUpperCase; // 결과 : HELLO WORLD
+'hello world'.indexOf('o'); // 결과 : 4
+'hello world'.indexOf('K'); // 결과 : -1 (없을경우 오류 -1)
+'hello world'.indexOf('world'); // 결과 : 6
+'     hello world    '.trim(); // 결과 :hello world
+
