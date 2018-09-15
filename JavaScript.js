@@ -30,8 +30,10 @@ alert('asdfasdfasdf'.length); //문자열의 길이를 구해서 띄워주는 �
 
 // 5. 웹브라우저 제어
 
-<input type="button" value="hi" onclick="     //이벤트 속성에 자바스크립트 입력
-  document.querySelector('body').style.backgroundColor = "black"; //body태그의 배경색을 검은색으로 변경
-  documnet.querySelector('body').style.color = "white"; //body태그의 글꼴색을 흰색으로 변경
+<input type="button" value="hi" onclick="     
+  document.querySelector('body').style.backgroundColor = "black"; 
+  documnet.querySelector('body').style.color = "white"; 
 ">
-  
+  //이벤트 속성에 자바스크립트 입력
+  //body태그의 배경색을 검은색으로 변경
+  //body태그의 글꼴색을 흰색으로 변경
