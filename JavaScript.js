@@ -23,3 +23,15 @@ alert('asdfasdfasdf'.length); //문자열의 길이를 구해서 띄워주는 �
 'hello world'.indexOf('world'); // 결과 : 6
 '     hello world    '.trim(); // 결과 :hello world
 
+// 4. 변수
+  
+  var a = 15; // a라는 이름의 변수를 선언하고 15의 값으로 초기화
+  alert("그의 나이는 " + age + "입니다."); // 결과 : 그의 나이는 15입니다.
+
+// 5. 웹브라우저 제어
+
+<input type="button" value="hi" onclick="     //이벤트 속성에 자바스크립트 입력
+  document.querySelector('body').style.backgroundColor = "black"; //body태그의 배경색을 검은색으로 변경
+  documnet.querySelector('body').style.color = "white"; //body태그의 글꼴색을 흰색으로 변경
+">
+  
