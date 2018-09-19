@@ -37,3 +37,15 @@ alert('asdfasdfasdf'.length); //문자열의 길이를 구해서 띄워주는 �
   //이벤트 속성에 자바스크립트 입력
   //body태그의 배경색을 검은색으로 변경
   //body태그의 글꼴색을 흰색으로 변경
+
+// 6. 조건문
+
+<input type="button" value="hi" onclick="
+  if(this.value === "hi"){
+    alert("hi");
+  }
+">
+
+// 7. 비교연산자와 불린
+
+document.write(1===1); // 결과 : true
