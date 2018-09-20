@@ -68,3 +68,17 @@ document.write(1<2);  // 결과 : true
 ">
 // this를 이용해서 자기 자신을 목표로 선택할 수 있다.
 // var로 변수를 선언하면 반복을 최소화 할수 있다.
+
+// 9. 배열
+
+<script>
+    var fruits = ["apple","banana","orange","grape"];
+    document.write("<br>");
+    document.write(fruits[0]);document.write("<br>");
+    document.write(fruits[1]);document.write("<br>");
+    document.write(fruits[2]);document.write("<br>");
+    document.write(fruits[3]);document.write("<br>");
+    fruits.push("kiwi");
+    document.write(fruits[4]);document.write("<br>");
+    document.write("총 과일 개수는 " + fruits.length + "입니다.");
+</script>
