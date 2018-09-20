@@ -49,3 +49,22 @@ alert('asdfasdfasdf'.length); //문자열의 길이를 구해서 띄워주는 �
 // 7. 비교연산자와 불린
 
 document.write(1===1); // 결과 : true
+document.write(1<2);  // 결과 : true
+
+// 8. 조건문과 리팩토링
+
+<input id="day_night" type="button" value="night" onclick="
+    var target = document.querySelector('body');
+    if(this.value === 'night'){
+      target.style.backgroundColor = 'black';
+      target.style.color = 'white';
+      this.value = 'day';
+    }
+    else{
+      target.style.backgroundColor = 'white';
+      target.style.color = 'black';
+      this.value = 'night';
+    }
+">
+// this를 이용해서 자기 자신을 목표로 선택할 수 있다.
+// var로 변수를 선언하면 반복을 최소화 할수 있다.
