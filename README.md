@@ -22,3 +22,4 @@
 ### 아톰 HTML편집기 : https://atom.io/
 ### C# 기초개념 : https://blog.naver.com/dkdldhekznal/221314815279
 ### CSS 무빙 : http://slowalk.tistory.com/2528
+### CSS 선택자 : https://blog.naver.com/hyein922/221324937426
