@@ -26,7 +26,7 @@ namespace AsyncAwaitTaskTutorial
        
        var res = await task; // 테스크의 ()함수 반환값이 나올때까지 기다림 즉 DelayedTask()가 return 하기 전까지는 대기
        
-       Console.WriteLine($"반환값: {res});
+       Console.WriteLine($"반환값: {res}");
      }
      
      static string DelayedTask() {
