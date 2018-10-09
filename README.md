@@ -19,6 +19,8 @@
 ### Current Learning C# : https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-00-3-the-parts-of-visual-studio/
 ### C# 기초개념 : https://blog.naver.com/dkdldhekznal/221314815279
 ### C# 문자열 정리 : http://www.mkexdev.net/Article/Content.aspx?parentCategoryID=1&categoryID=5&ID=683
+### C# 강의 : https://blog.naver.com/myjet1490/221369503149
+
 ## HTML or CSS or JavaScript or Web
 ### 생활코딩(웹) : https://opentutorials.org/course/1
 ### 생활코딩 진도 : JavaScript_배열
