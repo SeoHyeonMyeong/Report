@@ -40,3 +40,4 @@
 
 ## Linux
 ### Linux FTZ 시작 : https://blog.naver.com/ehdtjr3962/221003800784
+### 우분투 설치 : https://sergeswin.com/1178
