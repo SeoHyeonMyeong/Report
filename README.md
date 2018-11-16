@@ -42,3 +42,4 @@
 ### Linux FTZ 시작 : https://blog.naver.com/ehdtjr3962/221003800784
 ### 우분투 설치 : https://sergeswin.com/1178
 ### 우분투 입문 : https://aboutdh89.blog.me/220135267852
+### 우분투 위키 : https://wiki.ubuntu-kr.org/index.php/%EB%8C%80%EB%AC%B8
