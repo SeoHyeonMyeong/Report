@@ -21,6 +21,7 @@
 ### C# 문자열 정리 : http://www.mkexdev.net/Article/Content.aspx?parentCategoryID=1&categoryID=5&ID=683
 ### C# 강의 : https://blog.naver.com/myjet1490/221369503149
 ### C# 마이크로소프트 가이드 : https://docs.microsoft.com/ko-kr/dotnet/csharp/
+### C# MSDN_콘솔 : https://docs.microsoft.com/ko-kr/dotnet/api/system.console?view=netframework-4.7.2
 
 ## HTML or CSS or JavaScript or Web
 ### 생활코딩(웹) : https://opentutorials.org/course/1
