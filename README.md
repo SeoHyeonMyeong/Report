@@ -24,6 +24,7 @@
 ### C# MSDN_콘솔 : https://docs.microsoft.com/ko-kr/dotnet/api/system.console?view=netframework-4.7.2
 ### C# : 정리본 : http://www.soen.kr/book/dotnet/book/2-5-2.htm
 ### C# 이벤트 :https://docs.microsoft.com/ko-kr/dotnet/standard/events/?view=netframework-4.7.2
+### C# 공부기록 : https://blog.naver.com/kimsung4752/221318070847
 
 ## HTML or CSS or JavaScript or Web
 ### 생활코딩(웹) : https://opentutorials.org/course/1
