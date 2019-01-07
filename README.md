@@ -40,6 +40,7 @@
 ### 웹사이트 분석기 : https://analytics.google.com/analytics/web/
 ### 아톰 HTML편집기 : https://atom.io/
 ### JavaScript OpenSource Game : https://www.edopedia.com/blog/open-source-html5-and-javascript-games/
+### JavaScript Event List : http://www.ktword.co.kr/abbr_view.php?m_temp1=2744
 
 ## JAVA
 ### 자바 기초 정리 : https://jongmin92.github.io/2018/04/07/Java/java-basic/
