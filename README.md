@@ -7,6 +7,7 @@
 ### 웹 컴파일러 : https://ideone.com/
 ### edwidth 강좌 : https://www.edwith.org/search/index?categoryId=24
 ### MDN : https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#%EC%A1%B0%EA%B1%B4%EB%AC%B8
+### C# 기초개념 : https://blog.naver.com/bluney/220945644803
 
 ## Python
 ### 파이썬 : https://www.python.org
